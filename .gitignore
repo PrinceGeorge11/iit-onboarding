@@ -1,0 +1,7 @@
+
+node_modules
+dist
+.vercel
+.env
+.env.*
+apps/api/node_modules/.prisma
